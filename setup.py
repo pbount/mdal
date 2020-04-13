@@ -9,7 +9,7 @@ setup(
   author='pbount',
   author_email='your.email@domain.com',
   url='https://github.com/pbount/mdal',
-  download_url='https://github.com/pbount/mdal/archive/0.0.2.tar.gz',
+  download_url='https://github.com/pbount/mdal/archive/0.0.2§.tar.gz',
   keywords=['Persistence', 'SQL', 'Postgres', 'MySql', 'SQLite'],
   install_requires=[],
   classifiers=[
